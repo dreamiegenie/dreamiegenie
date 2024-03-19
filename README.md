@@ -1,5 +1,5 @@
 - 🌞 Hi, I’m @dreamiegenie
-- 👀 I’m interested in ...
+- 👀 I’m interested in being a software engineer.
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...discord id - defnotyourangel
