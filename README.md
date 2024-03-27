@@ -1,3 +1,7 @@
+![Uploading IMG_7630.jpeg…]()
+
+
+
 <h1 style='background-color: plum;'>Welcome to my profile.🌞</h1>
 -  I’m studying to be a software engineer 👀.
 - 🌱 I’m currently learning ...Javascript
