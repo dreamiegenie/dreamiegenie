@@ -1,0 +1,175 @@
+
+@media  (min-width: 1280px){
+    h1{
+        background-color: #000000;
+        color: #dccea5;
+        line-height: 20pt;
+        text-align: center;
+    }
+    .mainp1{
+        text-align: center;
+        display: block;
+        font-size: 20px;
+        font-style: italic;
+    }
+    .mainp{
+        display: none;
+    }
+    .uLine{
+        border: #fedf7e solid 2px;
+        width: 100%;
+        
+    }
+
+
+
+    .cyc{
+        margin-top: 50px;
+        background-color: #c8e0ec;
+        border: none;
+        height: 600px;
+        width: 280px;
+        border-radius: 135px 135px 0 0;
+        background-image: url(/images/images/img3.png);
+        background-size:cover;
+        margin-left: 60px;
+    }
+    
+    .h2,.BC,.btn{
+        position: relative;
+        bottom: 300px;
+        left: 450px
+    }
+        .h2{
+            font-size: 40px;
+            position: relative;
+            left: 38.5%;
+        }
+        .BC{
+            position: relative;
+            right: 70px;
+        }
+
+        .btn{
+            margin-left: 30px;
+        }
+        .wrapper{
+            display: flex;
+            justify-content:space-evenly;
+            margin-top: -1.90%;
+        }
+        /* .polaroid1{
+            box-sizing: border-box;
+            box-shadow: black 2px 2px 2px;
+            background-color: #fff;
+            display: inline;
+            height: 300px;
+            width: 200px;
+            margin-right: 300px;
+        } */
+
+        .po{
+            width: 260px;
+            background-image: url(/images/images/img2.png);
+            background-size: 600px;
+            background-position: center;
+            height: 50vh;
+            display: inline-flex;
+            filter: grayscale(50%);
+            align-items: center;
+            
+        }
+        .po2{
+            width: 260px;
+            background-image: url(/images/images/cacti.jpeg);
+            background-size: cover;
+            background-position: center;
+            height: 50vh;
+            display: inline-flex;
+            filter: grayscale(80%);
+        }
+        .po3{
+            width: 250px;
+            background-image: url(/images/images/cacctus.jpeg);
+            background-size: cover;
+            background-position: center;
+            height: 50vh;
+            display: inline-flex;
+            filter: grayscale(60%);
+
+        }
+
+
+
+        .polaroid1{
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 25px;
+        width: 260px;
+        margin-right: 20px; 
+        flex-shrink: 0; 
+        background-size: contain;
+        }
+        .polaroid2{
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 25px;
+        width: 260px;
+        margin-right: 20px; 
+        flex-shrink: 0; 
+        background-size: contain;
+        }
+        .polaroid3{
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 25px;
+        width: 250px;
+        margin-right: 20px; 
+        flex-shrink: 0; 
+        background-size: contain;
+        }
+
+        .btn1,.btn2,.btn3{
+            margin-right: 40px;
+            margin-bottom: 10dvh;
+            position: relative;
+            left: 50px;
+            top: 30px;
+        }
+
+
+        .potext1{
+            display: inline-block;
+            position: relative;
+            left: 43px;
+            top: 20px;
+            background-color: transparent;
+        }
+        
+        .potext2{
+            display: inline-block;
+            position: relative;
+            left: 80px;
+            top: 20px;
+            background-color: transparent;
+        }
+        
+        .potext3{
+            display: inline-block;
+            position: relative;
+            left: 70px;
+            top: 20px;
+            background-color: transparent;
+        }
+
+
+
+
+
+
+
+
+
+
+
+} 
