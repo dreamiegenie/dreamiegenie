@@ -1,3 +1,4 @@
+![Uploading pixel-jeff-mario.gif…]()
 # Hi there 👋 I'm dreamiegenie
 
 Welcome to my GitHub profile! I'm a software engineering student from Nigeria, passionate about building web applications and mastering modern development technologies.
