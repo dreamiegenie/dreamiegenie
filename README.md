@@ -1,4 +1,5 @@
-<img src="[./dreamiegenieBg](https://github.com/dreamiegenie/dreamiegenie/blob/main/dreamiegenieBg)" alt="App Demo" width="500" />
+![Background](dreamiegenieBg.gif)
+
 
 # Hi there 👋 I'm dreamiegenie
 
