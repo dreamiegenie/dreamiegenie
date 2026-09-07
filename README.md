@@ -1,4 +1,5 @@
-![Background](dreamiegenieBg.gif)
+![Background](https://githubusercontent.com)
+
 
 
 # Hi there 👋 I'm dreamiegenie
