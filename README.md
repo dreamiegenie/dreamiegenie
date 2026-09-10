@@ -40,9 +40,7 @@ I'm a **software engineering student** at Michael and Cecilia Ibru University, A
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamiegenie&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamiegenie&layout=compact&theme=radical)
+under construction!!
 
 ## 🎯 Featured Projects
 
