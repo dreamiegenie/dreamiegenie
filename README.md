@@ -4,9 +4,9 @@
 
 # Hi there 👋 I'm dreamiegenie
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=550&height=44&lines=I'm%20a%20software%20engineering%20student" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=550&height=44&lines=Welcome to my GitHub profile!%20I'm a software engineering %20student from Nigeria,%20passionate about%20 building web applications and mastering modern development technologies." alt="Typing headlines" />
 </p>
-Welcome to my GitHub profile! I'm a software engineering student from Nigeria, passionate about building web applications and mastering modern development technologies.
+ 
 
 ## 🚀 About Me
 
