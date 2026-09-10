@@ -1,4 +1,6 @@
-![Uploading dreamiegenieBg.gif…]()
+<img width="1028" height="407" alt="dreamiegenieBg" src="https://github.com/user-attachments/assets/806958a9-26c5-4201-8e4e-596f2e0247c6" /><img width="1920" height="1080" alt="pixel-jeff-mario" src="https://github.com/user-attachments/assets/bf08397c-e1cf-4ef9-ac05-6c2dea29e7ea" />
+
+
 
 
 
