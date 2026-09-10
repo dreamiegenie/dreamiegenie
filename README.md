@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi there 👋 I'm dreamiegenie</h1>
+<h1 align="center">Hi there 🌸 I'm dreamiegenie</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20software%20engineering%20student%20from%20Nigeria%2C%20passionate%20about%20building%20web%2Fmobile%20applications;I'm%20dedicated%20to%20learning%20and%20growing%20as%20a%20developer." alt="Typing headlines" />
 </p>
