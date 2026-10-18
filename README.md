@@ -14,7 +14,6 @@
 I'm a **software engineering student** at Michael and Cecilia Ibru University, Agbarha Otor, Delta State, Nigeria. I'm dedicated to learning and growing as a developer with a solid foundation in front-end technologies and actively expanding my skills in React and Java. I love creating interactive web experiences and solving coding challenges.
 
 - 🎓 Software Engineering Student at Michael and Cecilia Ibru University
-- 📍 Agbarha Otor, Delta State, Nigeria
 - 🌱 Actively learning **React** and **Java**
 - 💡 Passionate about front-end development and user experience
 - 🤝 Open to collaboration and learning from the community
